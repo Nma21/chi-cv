@@ -1,0 +1,36 @@
+body{
+    background: rgb(240, 238, 238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 150px;
+}
+#title{
+    text-align: center;
+    font-weight: bold;
+    font-family: "Lato", Helvetica, sans-serif;
+    background-color:rgb(81, 83, 83);
+    color: rgb(226, 222, 219);
+}
+img[src="../images/chi_image.jpg"]{
+    border: 10px solid black;
+    border-radius: 25%;
+}
+h2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+    font-weight: bold;
+}
+.email{
+    font-style: oblique;
+    text-decoration: none;
+}
+dt{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.journal{
+    font-style: oblique;
+}
+.footer{
+    font-size: 70%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
